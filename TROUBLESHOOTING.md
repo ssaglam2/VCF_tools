@@ -1,6 +1,6 @@
 # Troubleshooting Guide for VCF Processing Pipeline
 
-This guide provides solutions and debugging tips for common issues encountered while using the `run_vcf_processing.sh` script.
+This guide provides solutions and debugging tips for common issues encountered while using the script.
 
 ## Table of Contents
 
