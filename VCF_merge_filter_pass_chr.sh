@@ -5,8 +5,8 @@
 #
 # Script Version: 1.5
 # Author: ssaglam2
-# Date: 27.05.2024 
-# #(Note: You put 2025, I assumed 2024, please correct if 2025 was intentional for future use)
+# Date: 27.05.2025
+# 
 #
 # Description:
 # This script automates:
@@ -20,22 +20,6 @@
 #   - bcftools (version 1.9 or later recommended) installed and accessible in the system PATH.
 #     (Typically installed via Conda: `conda install -c bioconda bcftools`)
 #
-# Suggested README.md content for GitHub:
-#   - Brief overview of the script.
-#   - Detailed "Prerequisites" section.
-#   - "Configuration" section explaining each variable at the top of the script.
-#     Provide examples for `INPUT_VCF_DIR`, `EXPECTED_FILENAME_SUBSTRING`,
-#     `BASENAME_STRIP_SUFFIX_OVERRIDE`, `OUTPUT_BASENAME`, and `CHROMS_TO_KEEP`.
-#   - "Usage" instructions:
-#     1. Clone the repository or download the script.
-#     2. Modify the CONFIGURATION variables in the script to match your setup.
-#     3. Make the script executable: `chmod +x run_vcf_processing.sh` (or your script name)
-#     4. Ensure your Conda environment with bcftools is activated.
-#     5. Run the script: `./run_vcf_processing.sh`
-#   - "Output Files" description.
-#   - "Troubleshooting" tips (e.g., check bcftools installation, file paths, permissions,
-#     chromosome naming conventions '1' vs 'chr1').
-#   - "License" (e.g., MIT, GPL).
 #
 # ####################################################################################
 
